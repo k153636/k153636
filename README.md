@@ -2,5 +2,3 @@
 
 - 🛠️ **Development**: Luau, Python / Showcase
 - 🤖 **Stack**: AI-integrated (Cursor, Claude Code)
-
-*Project: "Are you suffering?" in progress.*
