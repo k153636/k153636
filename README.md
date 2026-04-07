@@ -1,4 +1,12 @@
-# k153636
+# 👋Hi I'm K!
 
-- 🛠️ **Development**: Luau, Python / Showcase
-- 🤖 **Stack**: AI-integrated (Cursor, Claude Code)
+### 🛠️ Languages
+- ・ **Python**
+- ・ **JavaScript**
+- ・ **TypeScript**
+- ・ **Luau** (Roblox Dev)
+- ・ **HTML / CSS**
+
+### 🤖 Tech Stack
+- **AI-Driven Development:** `Cursor`, `Claude Code`,
+- **Environments:** `Node.js`, `Roblox Studio`
