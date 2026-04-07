@@ -4,7 +4,7 @@
 - ・ **Python**
 - ・ **JavaScript**
 - ・ **TypeScript**
-- ・ **Luau** (Roblox Dev)
+- ・ **Luau**
 - ・ **HTML / CSS**
 
 ### 🤖 Stack
