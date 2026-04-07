@@ -7,6 +7,6 @@
 - ・ **Luau** (Roblox Dev)
 - ・ **HTML / CSS**
 
-### 🤖 Tech Stack
+### 🤖 Stack
 - **AI-Driven Development:** `Cursor`, `Claude Code`,
 - **Environments:** `Node.js`, `Roblox Studio`
