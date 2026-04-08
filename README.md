@@ -1,6 +1,6 @@
 # 👋Hi I'm K!
 
-### 🛠️ Languages
+### 🛠️ 扱っている言語
 - ・ **Python**
 - ・ **JavaScript**
 - ・ **TypeScript**
