@@ -19,7 +19,7 @@
 const K = {
   focus:    ["AI / LLM", "Full-Stack Web", "Creative Dev"],
   tools:    ["Cursor", "Claude Code"],
-  now:      "AI × Web の境界を探索中",
+  now:      "Building NexStrap, a Roblox Bootstrapper for myself",
   contact:  "GitHub Issues / Discussions welcome!",
 };
 ```
