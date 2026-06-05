@@ -57,7 +57,7 @@ const K = {
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=k153636&theme=midnight-purple&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=k153636&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
