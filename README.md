@@ -18,7 +18,7 @@
 ```typescript
 const K = {
   focus:    ["AI / LLM", "Full-Stack Web", "Creative Dev"],
-  tools:    ["Cursor", "Claude Code"],
+  tools:    ["Zed", "Claude Code"],
   now:      "Building NexStrap, a Roblox Bootstrapper for myself",
   contact:  "GitHub Issues / Discussions welcome!",
 };
@@ -73,5 +73,5 @@ const K = {
 </div>
 
 <div align="center">
-<sub>✨ AI × Web × Creative — 何か面白いものを一緒に作りましょう</sub>
+<sub>✨ Replacing generic with personal — one person at a time.</sub>
 </div>
