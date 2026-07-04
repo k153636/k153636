@@ -17,7 +17,7 @@
 
 ```typescript
 const K = {
-  focus:    ["AI / LLM", "Full-Stack Web", "Creative Dev"],
+  focus:    ["AI / LLM", "Creative Dev"],
   tools:    ["Zed", "Claude Code"],
   now:      "Building NexStrap, a Roblox Bootstrapper for myself",
   contact:  "GitHub Issues / Discussions welcome!",
@@ -26,7 +26,7 @@ const K = {
 
 ---
 
-### 🛠️ Tech Stack
+### Working With
 
 **Languages**
 
@@ -34,7 +34,6 @@ const K = {
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **AI & Dev Tools**
